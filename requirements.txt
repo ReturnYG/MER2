@@ -1,0 +1,4 @@
+dlib==19.24.0
+numpy==1.23.4
+opencv_python_inference_engine==4.0.1.2
+pandas==1.5.0
